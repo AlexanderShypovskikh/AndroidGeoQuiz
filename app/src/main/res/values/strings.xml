@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Constantinopol</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="question_oceans">The Pacific Ocean is lager
+                   than the Atlantic Ocean.</string>
+    <string name="question_africa">The source of the Nile River is in Eqypt.</string>
+    <string name="question_americas">The Amazon River is the Longest river in the Americas.</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+    <string name="question_mideat">The suez Canal connects the Red Sea</string>
+    <string name="menu_settings">Settings</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
